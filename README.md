@@ -1,0 +1,2 @@
+# anandi
+Science archives give access to a wide range of products. An important part of these products is made of images obtained from multiple processing algorithms and sensors. Due to its scientific background, the access interface to these products/images offers many customization options. General public are many times discouraged by the apparent complexity of the web interface.  A very simple interface would contribute to improve awareness and accessibility for the general public.
