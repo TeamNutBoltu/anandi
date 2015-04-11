@@ -1,6 +1,6 @@
 {
     "name": "anandi",
-    "description": "Science archives give access to a wide range of products. An important part of these products is made of images obtained from multiple processing algorithms and sensors. Due to its scientific background, the access interface to these products/images offers many customization options. General public are many times discouraged by the apparent complexity of the web interface. A very simple interface would contribute to improve awareness and accessibility for the general public.",
+    "description": "A Transient Watch – Daily News on Active Neutron Stars and Black Holes on Your Mobile Phone",
     "launch_path": "/index.html",
     "icons": {
         "16": "/img/icon-16.png",
@@ -13,7 +13,7 @@
     },
     "developer": {
         "name": "NutBoltu",
-        "url": "http://www.nutboltu.org"
+        "url": "http://www.nutboltu.net"
     },
     "default_locale": "en",
     "type": "web",
