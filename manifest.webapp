@@ -1,6 +1,6 @@
 {
     "name": "anandi",
-    "description": "A Transient Watch – Daily News on Active Neutron Stars and Black Holes on Your Mobile Phone",
+    "description": "An app to share happy moments from space",
     "launch_path": "/index.html",
     "icons": {
         "16": "/img/icon-16.png",
